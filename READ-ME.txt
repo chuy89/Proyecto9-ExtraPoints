@@ -1,0 +1,7 @@
+/**************************************
+** Instructions
+**************************************/
+
+1- Install schema.sql in database.
+1- Open config. Change [base_url]
+2- Open database. Change [db_name]
